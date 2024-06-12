@@ -1,6 +1,6 @@
 ## Łukasz Kubik 193178 (kjubig) 
 
-# Wizualizacja windy_
+# Wizualizacja windy
 
 ## POLECENIE
 ### _Zadanie 3_
